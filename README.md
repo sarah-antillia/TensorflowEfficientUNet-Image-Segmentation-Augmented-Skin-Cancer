@@ -15,11 +15,11 @@ ImageMaskAugmentor.py</a> to train aSkin-Cancer Segmentation Model.<br><br>
 Please see also our first experiment <a href="https://github.com/sarah-antillia/Image-Segmentation-Skin-Lesion">Image-Segmentation-Skin-Lesion</a>
  based on a Pre-Augmented-ImageMask-Dataset of 256x256 pixel size.
 <br>
-, and our second experiment 
+The second experiment 
 <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-Augmented-Skin-Cancer">
 Tensorflow-Image-Segmentation-Augmented-Skin-Cancer </a>
 <br>
-, and our third experiment 
+The third experiment 
 <a href="https://github.com/sarah-antillia/TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer">
 TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer </a>
 <br>
