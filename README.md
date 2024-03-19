@@ -269,7 +269,7 @@ Test accuracy:0.9452000260353088
 </pre>
 
 As shown above, the loss is not so low, and the accuracy not so high. However, they are a little bit better than those of TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer<br>
-<img src="https://github.com/sarah-antillia/TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer/blob/main/projects/TensorflowSwinUNet/Skin-Cancer/asset/evalute_console_output_at_epoch_46.png">
+<img src="https://github.com/sarah-antillia/TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer/blob/main/projects/TensorflowSwinUNet/Skin-Cancer/asset/evalute_console_output_at_epoch_46.png" width="720" height="auto">
 <br>
 <br>
 Please see also our first experiment <a href="https://github.com/sarah-antillia/Image-Segmentation-Skin-Lesion">Image-Segmentation-Skin-Lesion</a>
