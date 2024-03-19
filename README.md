@@ -26,7 +26,7 @@ TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer </a>
 
 
 <br>
-We use the EfficientNet-Based-UNet Model
+We use the EfficientNet-B0-Based-UNet Model
 <a href="./src/TensorflowEfficientUNet.py">TensorflowEfficientUNet.py</a> for this Skin-Cancer Segmentation.<br>
 
 Our TensorflowEfficientUNet class is based on the following implementation.<br>
