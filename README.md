@@ -1,6 +1,6 @@
 <h2>TensorflowEfficientUNet-Image-Segmentation-Augmented-Skin-Cancer (2024/03/20)</h2>
 
-This is the third experimental Image Segmentation project for Skin-Cancer  based on
+This is the fourth experimental Image Segmentation project for Skin-Cancer  based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
 <a href="https://drive.google.com/file/d/1kb7Tc9OSDQ28h83QKstXrhxMuKgWQb89/view?usp=sharing">Skin-Cancer-ImageMask-Dataset.zip</a>
 
@@ -21,12 +21,21 @@ Please see also our first experiment <a href="https://github.com/sarah-antillia/
 <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-Augmented-Skin-Cancer">
 Tensorflow-Image-Segmentation-Augmented-Skin-Cancer </a>
 <br>
+, and our third experiment 
+<a href="https://github.com/sarah-antillia/TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer">
+TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer </a>
+<br>
+
 
 <br>
-We use the Swin Transformer UNet Model
+We use the EfficientNet-Based-UNet Model
 <a href="./src/TensorflowEfficientUNet.py">TensorflowEfficientUNet.py</a> for this Skin-Cancer Segmentation.<br>
 
-On Swin Transformer UNet, please refer to <a href="https://arxiv.org/pdf/2105.05537.pdf">Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation</a><br>
+Our TensorflowEfficientUNet class is based on the following implementation.<br>
+<a href="https://github.com/nikhilroxtomar/Semantic-Segmentation-Architecture/blob/main/TensorFlow/efficientnetb0_unet.py">
+Nikhil Tomar: Semantic-Segmentation-Architecture</a>
+<br>
+ 
 
 <h3>1. Dataset Citation</h3>
 The image dataset used here has been taken from the following web site.<br>
