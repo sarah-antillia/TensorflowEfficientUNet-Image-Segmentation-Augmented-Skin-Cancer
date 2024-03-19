@@ -5,10 +5,8 @@ the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API
 <a href="https://drive.google.com/file/d/1kb7Tc9OSDQ28h83QKstXrhxMuKgWQb89/view?usp=sharing">Skin-Cancer-ImageMask-Dataset.zip</a>
 
 <br>
-<br>
 Segmentation samples.<br>
 <img src="./projects/TensorflowEfficientUNet/Skin-Cancer/asset/segmentation_samples.png" width="720" height="auto">
-<br>
 <br>
 
 We will use an online dataset augmentation strategy based on Python script <a href="./src/ImageMaskAugmentor.py">
