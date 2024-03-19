@@ -388,13 +388,13 @@ https://github.com/sarah-antillia/Image-Segmentation-Skin-Lesion
 <b>6. TensorflowUNet-Image-Segmentation-Augmented-Skin-Cancer</b><br>
 Toshiyuki Arai @antillia.com
 <pre>
-https://github.com/sarah-antillia/TensorflowUNet-Image-Segmentation--Augmented-Skin-Cancer
+https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-Augmented-Skin-Cancer
 </pre>
 
 <b>7. TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer</b><br>
 Toshiyuki Arai @antillia.com
 <pre>
-https://github.com/sarah-antillia/TensorflowSwinUNet-Image-Segmentation--Augmented-Skin-Cancer
+https://github.com/sarah-antillia/TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer
 </pre>
 
 <b>8. ImageMask-Dataset-Skin-Cancer</b><br>
