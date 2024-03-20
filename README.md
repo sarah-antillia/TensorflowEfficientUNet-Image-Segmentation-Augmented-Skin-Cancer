@@ -30,10 +30,9 @@ We use the EfficientNet-B0-Based-UNet Model
 <a href="./src/TensorflowEfficientUNet.py">TensorflowEfficientUNet.py</a> for this Skin-Cancer Segmentation.<br>
 
 Our TensorflowEfficientUNet class is based on the following implementation.<br>
-<a href="https://github.com/nikhilroxtomar/Semantic-Segmentation-Architecture/blob/main/TensorFlow/efficientnetb0_unet.py">
-Nikhil Tomar: Semantic-Segmentation-Architecture</a>
+<a href="https://github.com/he44/EfficientNet-UNet/blob/master/efficientnet_unet/build_eunet.py">
+he44:EfficientNet-UNet</a>
 <br>
- 
 
 <h3>1. Dataset Citation</h3>
 The image dataset used here has been taken from the following web site.<br>
